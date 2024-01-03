@@ -15,8 +15,4 @@ This project provides a basic form validation functionality using JavaScript. It
 
 ## How to Use
 
-1. Clone the repository:
-
-   ```bash
 Just visit: https://ealvarado23.github.io/JavaScript-Form-Validator/
-   ```
