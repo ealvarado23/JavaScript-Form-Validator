@@ -18,5 +18,5 @@ This project provides a basic form validation functionality using JavaScript. It
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:ealvarado23/JavaScript-Form-Validator.git
+Just visit: https://ealvarado23.github.io/JavaScript-Form-Validator/
    ```
